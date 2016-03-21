@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[PacRep - Live On Stage!]]></title>
+        <description><![CDATA[PacRep - Live On Stage!]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 21 Mar 2016 03:36:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Pacific Repertory Theatre - Pacific Repertory Theatre]]></title>
+            <description><![CDATA[<article><h1>Pacific Repertory Theatre - Pacific Repertory Theatre</h1><p>PacRep Theatre produces quality interpretations of great plays that engage, excite, educate and inspire - presenting a world-class theatrical experience.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1263d08d1507564f7faea1d53ffee25d77024f95.jpg"></article>]]></description>
+            <link>http://www.pacrep.org/</link>
+            <guid isPermaLink="false">63368781-e265-448e-b5e5-cda6af1c96d2</guid>
+            <pubDate>Mon, 21 Mar 2016 03:36:25 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
