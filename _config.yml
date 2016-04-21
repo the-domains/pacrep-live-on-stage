@@ -1,28 +1,40 @@
-name: 'PacRep - Live On Stage!'
 favicon: null
-layout_spectrum: 0.47894731699489057
-typography_spectrum: 0.5081293866969645
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: 'PacRep - Live On Stage!'
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.2350366418249905
+  brandStrength: 0.4934597082901746
+  rhythmicContrast: 0.6428857697173953
   brandColors:
     - '#71A7FE'
     - '#399AE7'
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.4934597082901746
-  lightness: 0.11503855744376779
-  saturation: 0.2350366418249905
-  rhythmicContrast: 0.6428857697173953
-purpose: []
+  lightness: 0.1150385574437678
+typography_spectrum: 0.5081293866969645
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
