@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[PacRep - Live On Stage!]]></title>
         <description><![CDATA[PacRep - Live On Stage!]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pacrep-live-on-stage/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 03:36:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Apr 2016 04:44:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pacrep-live-on-stage/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Pacific Repertory Theatre - 2016 Season]]></title>
+            <description><![CDATA[<article><h1>Pacific Repertory Theatre - 2016 Season</h1><p>Pacific Repertory Theatre's 2016 Live Professional Season presented at the Golden Bough Playhouse and Outdoor Forest Theater in Carmel, California.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a8a91055ede7b795de3db886056d19ec5002f14d.jpg"></article>]]></description>
+            <link>http://www.pacrep.org/2016Season</link>
+            <guid isPermaLink="false">4dd1a6f2-c422-452a-b7bd-8bb771168f4c</guid>
+            <pubDate>Thu, 21 Apr 2016 04:44:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Pacific Repertory Theatre - Pacific Repertory Theatre]]></title>
             <description><![CDATA[<article><h1>Pacific Repertory Theatre - Pacific Repertory Theatre</h1><p>PacRep Theatre produces quality interpretations of great plays that engage, excite, educate and inspire - presenting a world-class theatrical experience.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1263d08d1507564f7faea1d53ffee25d77024f95.jpg"></article>]]></description>
